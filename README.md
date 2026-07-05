@@ -1,1 +1,14 @@
-# finalproject
+# **The Truth About Breakfast: Nutrition Report on 80 Cereals**
+
+### Source of Data
+The dataset was downloaded from Kaggle, but Kaggle is only a platform that hosts datasets rather than the original source. The data was compiled and cleaned by researchers Petra Isenberg, Pierre Dragicevic, and Yvonne Jansen from an earlier breakfast cereal nutrition dataset based on information from cereal nutrition labels. It includes data for about 80 cereals, such as calories, sugar, protein, fiber, sodium, vitamins, serving size, and manufacturer.
+
+### Challenges with the Data
+One challenge with this dataset is that the original data collection process is not fully documented. Although the nutrition information likely came from product labels, the dataset does not specify exactly when or where the information was collected, and some cereals may have changed their recipes or no longer be sold. In addition, the "rating" variable is believed to come from Consumer Reports, but the dataset does not explain how the ratings were calculated. Because of these limitations, a journalist should verify the nutritional information using current product labels or government nutrition databases before publishing conclusions. While the dataset does not appear to have a commercial or political agenda, its age and limited documentation mean it should be used carefully and not treated as a completely authoritative source.
+
+### Analyzing the Data
+
+To analyze the dataset, I created three pivot tables comparing cereal manufacturers by average sugar content, average consumer rating, and the difference between hot and cold cereals. I was interested in comparing manufacturers because it shows whether certain brands consistently produce healthier cereals than others. Looking at average sugar levels helped identify which manufacturers tend to make sweeter cereals, while average fiber content provided insight into which companies offer more nutritious, high-fiber options. Comparing the average ratings allowed me to see whether cereals with healthier nutritional profiles also received higher consumer ratings.
+
+For my third pivot table, I compared hot and cold cereals by their average rating, fiber, and sugar content. I wanted to see whether hot cereals are generally healthier than cold cereals since hot cereals are often considered a more nutritious breakfast choice. The comparison showed noticeable differences in nutrition between the two types, particularly in fiber and sugar levels, suggesting that cereal type can have an impact on its overall nutritional value. Together, these pivot tables helped reveal patterns in the dataset and showed how both the manufacturer and the type of cereal can influence its nutritional quality.The [google sheets]((https://docs.google.com/spreadsheets/d/1MDdbW7sUO9WAM0JcKsCIjUSFUDcD7vMIK2ZApAdLR4A/edit?usp=sharing)) shows all my data analysis.
+
