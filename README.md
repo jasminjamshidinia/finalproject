@@ -29,6 +29,11 @@ The second chart, comparing manufacturers and average rating, added another laye
 
 The third chart compared hot and cold cereals across nutritional measures including sugar, fiber, and rating. This comparison showed noticeable differences between the two categories. Hot cereals generally tended to have different nutritional profiles than cold cereals, especially in fiber and sugar content. This helped illustrate that cereal type itself can influence nutrition, not just brand or manufacturer. However, the differences should not be overstated, since there is variation within both categories.
 
+I have attached the original pivot tables for further context.
+![Pivot table of sugar](sugar2.png)
+![Pivot table of rating](rate2.png)
+![Pivot table of temp](temp2.png)
+
 ### Ethical Concerns
 
 One major ethical concern with this dataset is that it could unintentionally oversimplify or misrepresent cereal brands or products. By focusing on averages, the analysis may make some manufacturers appear consistently “unhealthy” or “healthy,” even though individual products within those brands can vary widely. This could unfairly stigmatize certain companies or influence consumer perception without considering full context.
